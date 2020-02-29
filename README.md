@@ -1,1 +1,16 @@
 # UtilityHands
+This is a fork (!) of the mod Spoon Hands that has not been updated since B19:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1520212939
+	
+Adds four new basic hand-prostetics, each with its own properties.
+* Spoon-hand: You can eat better, at least soup.
+* Fork-hand: You can eat better, but not soup.
+* Knife hand: You can eat a little better and its easier to hurt people.
+* Scissor-hand: Harvesting crops is your thing, Edward.
+
+Requires either of the two EOPE-mods (original or forked) 
+
+https://steamcommunity.com/workshop/filedetails/?id=725956940
+
+https://steamcommunity.com/workshop/filedetails/?id=1949064302 
