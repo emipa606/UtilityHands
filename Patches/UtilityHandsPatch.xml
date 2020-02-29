@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>*/ThingDef[defName="TableBasicProsthetic" or defName="TableSimpleProsthetic"]</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>*/ThingDef[defName="TableBasicProsthetic" or defName="TableSimpleProsthetic"]/recipes</xpath>
+        <value>
+          <li>CreateSpoonHand</li>
+          <li>CreateForkHand</li>
+          <li>CreateKnifeHand</li>
+          <li>CreateScissorHand</li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
