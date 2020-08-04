@@ -1,19 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Utility Hands</name>
-	<packageId>Mlie.UtilityHands</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/UtilityHands</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter>
-		<li>Ykara.EPOE</li>
-		<li>vat.epoeforked</li>
-	</loadAfter>	
-	<description>This is a fork (!) of the mod Spoon Hands that has not been updated since B19:
+  <name>Utility Hands</name>
+  <packageId>Mlie.UtilityHands</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/UtilityHands</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter>
+    <li>Ykara.EPOE</li>
+    <li>vat.epoeforked</li>
+  </loadAfter>
+  <description>This is a fork (!) of the mod Spoon Hands that has not been updated since B19:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1520212939
 	
 Adds four new basic hand-prostetics, each with its own properties.

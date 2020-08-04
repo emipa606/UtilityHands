@@ -1,60 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-
-	<ThingDef ParentName="Basic">
-		<defName>SpoonHand</defName>
-		<label>spoon hand</label>
-		<description>Why would you want to be a spoon-handed freak?</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MarketValue>115</MarketValue>
-			<Mass>2</Mass>
-		</statBases>
-	</ThingDef>
-
-	<ThingDef ParentName="Basic">
-		<defName>ForkHand</defName>
-		<label>fork hand</label>
-		<description>It makes it easier to fork someone.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MarketValue>115</MarketValue>
-			<Mass>2</Mass>
-		</statBases>
-	</ThingDef>
-	
-	<ThingDef ParentName="Basic">
-		<defName>KnifeHand</defName>
-		<label>knife hand</label>
-		<description>You could feel like a wolverine!</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MarketValue>115</MarketValue>
-			<Mass>2</Mass>
-		</statBases>
-	</ThingDef>
-	
-	<ThingDef ParentName="Basic">
-		<defName>ScissorHand</defName>
-		<label>scissor hand</label>
-		<description>Try it on some ice-scuptures.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MarketValue>115</MarketValue>
-			<Mass>2</Mass>
-		</statBases>
-	</ThingDef>
-
+  <ThingDef ParentName="Basic">
+    <defName>SpoonHand</defName>
+    <label>spoon hand</label>
+    <description>Why would you want to be a spoon-handed freak?</description>
+    <graphicData>
+      <texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>115</MarketValue>
+      <Mass>2</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="Basic">
+    <defName>ForkHand</defName>
+    <label>fork hand</label>
+    <description>It makes it easier to fork someone.</description>
+    <graphicData>
+      <texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>115</MarketValue>
+      <Mass>2</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="Basic">
+    <defName>KnifeHand</defName>
+    <label>knife hand</label>
+    <description>You could feel like a wolverine!</description>
+    <graphicData>
+      <texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>115</MarketValue>
+      <Mass>2</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="Basic">
+    <defName>ScissorHand</defName>
+    <label>scissor hand</label>
+    <description>Try it on some ice-scuptures.</description>
+    <graphicData>
+      <texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>115</MarketValue>
+      <Mass>2</Mass>
+    </statBases>
+  </ThingDef>
 </Defs>

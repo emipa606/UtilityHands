@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSpoonHand.label>install spoon hand</InstallSpoonHand.label>
+  <InstallSpoonHand.description>Installs spoon hand.</InstallSpoonHand.description>
+  <InstallSpoonHand.jobString>Installing spoon hand.</InstallSpoonHand.jobString>
+
+  <InstallForkHand.label>install fork hand</InstallForkHand.label>
+  <InstallForkHand.description>Installs fork hand.</InstallForkHand.description>
+  <InstallForkHand.jobString>Installing fork hand.</InstallForkHand.jobString>
+
+  <InstallKnifeHand.label>install knife hand</InstallKnifeHand.label>
+  <InstallKnifeHand.description>Installs knife hand.</InstallKnifeHand.description>
+  <InstallKnifeHand.jobString>Installing knife hand.</InstallKnifeHand.jobString>
+
+  <InstallScissorHand.label>install scissor hand</InstallScissorHand.label>
+  <InstallScissorHand.description>Installs scissor hand.</InstallScissorHand.description>
+  <InstallScissorHand.jobString>Installing scissor hand.</InstallScissorHand.jobString>
+
+
+</LanguageData>

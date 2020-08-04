@@ -1,120 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-
-	<RecipeDef ParentName="RecipeBasicProsthesis">
-		<defName>CreateSpoonHand</defName>
-		<label>Craft spoon hand</label>
-		<description>Crafts a spoon hand from metal.</description>
-		<jobString>Crafting prosthesis.</jobString>
-		<soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
-		<products>
-			<SpoonHand>1</SpoonHand>
-		</products>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Steel</li>
-					</thingDefs>
-				</filter>
-				<count>20</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Steel</li>
-			</thingDefs>
-			<categories>
-				<li>Textiles</li>
-			</categories>
-		</fixedIngredientFilter>
-	</RecipeDef>
-
-	<RecipeDef ParentName="RecipeBasicProsthesis">
-		<defName>CreateForkHand</defName>
-		<label>Craft fork hand</label>
-		<description>Crafts a fork hand from metal.</description>
-		<jobString>Crafting prosthesis.</jobString>
-		<soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
-		<products>
-			<ForkHand>1</ForkHand>
-		</products>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Steel</li>
-					</thingDefs>
-				</filter>
-				<count>20</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Steel</li>
-			</thingDefs>
-			<categories>
-				<li>Textiles</li>
-			</categories>
-		</fixedIngredientFilter>
-	</RecipeDef>
-	
-	<RecipeDef ParentName="RecipeBasicProsthesis">
-		<defName>CreateKnifeHand</defName>
-		<label>Craft knife hand</label>
-		<description>Crafts a knife hand from metal.</description>
-		<jobString>Crafting prosthesis.</jobString>
-		<soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
-		<products>
-			<KnifeHand>1</KnifeHand>
-		</products>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Steel</li>
-					</thingDefs>
-				</filter>
-				<count>20</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Steel</li>
-			</thingDefs>
-			<categories>
-				<li>Textiles</li>
-			</categories>
-		</fixedIngredientFilter>
-	</RecipeDef>
-	
-	<RecipeDef ParentName="RecipeBasicProsthesis">
-		<defName>CreateScissorHand</defName>
-		<label>Craft scissor hand</label>
-		<description>Tailors a scissor hand from metal.</description>
-		<jobString>Crafting prosthesis.</jobString>
-		<soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
-		<products>
-			<ScissorHand>1</ScissorHand>
-		</products>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Steel</li>
-					</thingDefs>
-				</filter>
-				<count>20</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Steel</li>
-			</thingDefs>
-			<categories>
-				<li>Textiles</li>
-			</categories>
-		</fixedIngredientFilter>
-	</RecipeDef>
-
+  <RecipeDef ParentName="RecipeBasicProsthesis">
+    <defName>CreateSpoonHand</defName>
+    <label>Craft spoon hand</label>
+    <description>Crafts a spoon hand from metal.</description>
+    <jobString>Crafting prosthesis.</jobString>
+    <soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
+    <products>
+      <SpoonHand>1</SpoonHand>
+    </products>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+      <categories>
+        <li>Textiles</li>
+      </categories>
+    </fixedIngredientFilter>
+  </RecipeDef>
+  <RecipeDef ParentName="RecipeBasicProsthesis">
+    <defName>CreateForkHand</defName>
+    <label>Craft fork hand</label>
+    <description>Crafts a fork hand from metal.</description>
+    <jobString>Crafting prosthesis.</jobString>
+    <soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
+    <products>
+      <ForkHand>1</ForkHand>
+    </products>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+      <categories>
+        <li>Textiles</li>
+      </categories>
+    </fixedIngredientFilter>
+  </RecipeDef>
+  <RecipeDef ParentName="RecipeBasicProsthesis">
+    <defName>CreateKnifeHand</defName>
+    <label>Craft knife hand</label>
+    <description>Crafts a knife hand from metal.</description>
+    <jobString>Crafting prosthesis.</jobString>
+    <soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
+    <products>
+      <KnifeHand>1</KnifeHand>
+    </products>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+      <categories>
+        <li>Textiles</li>
+      </categories>
+    </fixedIngredientFilter>
+  </RecipeDef>
+  <RecipeDef ParentName="RecipeBasicProsthesis">
+    <defName>CreateScissorHand</defName>
+    <label>Craft scissor hand</label>
+    <description>Tailors a scissor hand from metal.</description>
+    <jobString>Crafting prosthesis.</jobString>
+    <soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
+    <products>
+      <ScissorHand>1</ScissorHand>
+    </products>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+      <categories>
+        <li>Textiles</li>
+      </categories>
+    </fixedIngredientFilter>
+  </RecipeDef>
 </Defs>

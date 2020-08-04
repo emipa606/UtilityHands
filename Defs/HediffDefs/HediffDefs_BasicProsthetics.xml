@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-
   <HediffDef ParentName="addedPartBasic">
     <defName>SpoonHand</defName>
     <label>Spoon hand</label>
     <labelNoun>a spoon hand</labelNoun>
-	<description>using a spoon instead of a hand</description>
+    <description>using a spoon instead of a hand</description>
     <spawnThingOnRemoved>SpoonHand</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
@@ -37,12 +35,11 @@
       </li>
     </comps>
   </HediffDef>
-
   <HediffDef ParentName="addedPartBasic">
     <defName>ForkHand</defName>
     <label>Fork hand</label>
     <labelNoun>a fork hand</labelNoun>
-	<description>using a fork instead of a hand</description>
+    <description>using a fork instead of a hand</description>
     <spawnThingOnRemoved>ForkHand</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
@@ -73,12 +70,11 @@
       </li>
     </comps>
   </HediffDef>
-
   <HediffDef ParentName="addedPartBasic">
     <defName>KnifeHand</defName>
     <label>Knife hand</label>
     <labelNoun>a knife hand</labelNoun>
-	<description>using a knife instead of a hand</description>
+    <description>using a knife instead of a hand</description>
     <spawnThingOnRemoved>KnifeHand</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
@@ -109,12 +105,11 @@
       </li>
     </comps>
   </HediffDef>
-
   <HediffDef ParentName="addedPartBasic">
     <defName>ScissorHand</defName>
     <label>Scissor hand</label>
     <labelNoun>a scissor hand</labelNoun>
-	<description>using a scissor instead of a hand</description>
+    <description>using a scissor instead of a hand</description>
     <spawnThingOnRemoved>ScissorHand</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
@@ -122,10 +117,10 @@
     </addedPartProps>
     <stages>
       <li>
-		<statOffsets>
-			<PlantHarvestYield>0.30</PlantHarvestYield>
-			<PlantWorkSpeed>0.30</PlantWorkSpeed>
-		</statOffsets>
+        <statOffsets>
+          <PlantHarvestYield>0.30</PlantHarvestYield>
+          <PlantWorkSpeed>0.30</PlantWorkSpeed>
+        </statOffsets>
       </li>
     </stages>
     <comps>
