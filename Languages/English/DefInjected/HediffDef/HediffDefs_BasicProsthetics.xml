@@ -1,25 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <SpoonHand.label>Spoon hand</SpoonHand.label>
   <SpoonHand.description>using a spoon instead of a hand</SpoonHand.description>
   <SpoonHand.comps.0.tools.0.label>spoon hand</SpoonHand.comps.0.tools.0.label>
   <SpoonHand.labelNoun>a spoon hand</SpoonHand.labelNoun>
-
   <ForkHand.label>Fork hand</ForkHand.label>
   <ForkHand.description>using a fork instead of a hand</ForkHand.description>
   <ForkHand.comps.0.tools.0.label>Fork hand</ForkHand.comps.0.tools.0.label>
   <ForkHand.labelNoun>a fork hand</ForkHand.labelNoun>
-
   <KnifeHand.label>Knife hand</KnifeHand.label>
   <KnifeHand.description>using a knife instead of a hand</KnifeHand.description>
   <KnifeHand.comps.0.tools.0.label>Knife hand</KnifeHand.comps.0.tools.0.label>
   <KnifeHand.labelNoun>a knife hand</KnifeHand.labelNoun>
-
   <ScissorHand.label>Scissor hand</ScissorHand.label>
   <ScissorHand.description>using a scissor instead of a hand</ScissorHand.description>
   <ScissorHand.comps.0.tools.0.label>Scissor hand</ScissorHand.comps.0.tools.0.label>
   <ScissorHand.labelNoun>a scissor hand</ScissorHand.labelNoun>
-
-
 </LanguageData>

@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <SpoonHand.label>spoon hand</SpoonHand.label>
   <SpoonHand.description>Why would you want to be a spoon-handed freak?</SpoonHand.description>
-
   <ForkHand.label>fork hand</ForkHand.label>
   <ForkHand.description>It makes it easier to fork someone.</ForkHand.description>
-
   <KnifeHand.label>knife hand</KnifeHand.label>
   <KnifeHand.description>You could feel like a wolverine!</KnifeHand.description>
-
   <ScissorHand.label>scissor hand</ScissorHand.label>
   <ScissorHand.description>Try it on some ice-scuptures.</ScissorHand.description>
-
-
 </LanguageData>

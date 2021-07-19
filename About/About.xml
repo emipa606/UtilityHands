@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Utility Hands</name>
   <packageId>Mlie.UtilityHands</packageId>
@@ -8,23 +8,50 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
     <li>Ykara.EPOE</li>
     <li>vat.epoeforked</li>
   </loadAfter>
-  <description>This is a fork (!) of the mod Spoon Hands that has not been updated since B19:
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  
+This is a fork (!) of the mod Spoon Hands that has not been updated since B19:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1520212939
 	
 Adds four new basic hand-prostetics, each with its own properties.
-Spoon-hand: You can eat better, at least soup.
-Fork-hand: You can eat better, but not soup.
-Knife hand: You can eat a little better and its easier to hurt people.
-Scissor-hand: Harvesting crops is your thing, Edward.
 
-Requires either of the two EOPE-mods (original or forked)
+[list]
+[*]Spoon-hand: You can eat better, at least soup.
+[*]Fork-hand: You can eat better, but not soup.
+[*]Knife hand: You can eat a little better and its easier to hurt people.
+[*]Scissor-hand: Harvesting crops is your thing, Edward.
+[/list]
+
+Requires either of the two EPOE-mods (original or forked)
 https://steamcommunity.com/workshop/filedetails/?id=725956940
 https://steamcommunity.com/workshop/filedetails/?id=1949064302 
-	</description>
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/UtilityHands][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+
+[img]https://i.imgur.com/pgjQLXV.png[/img]
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my [url=https://store.steampowered.com/wishlist/id/Mlie]Wishlist[/url] or buy me a cup of tea.
+
+[url=https://ko-fi.com/G2G55DDYD][img]https://i.ibb.co/VWJJb3w/Support-Me-dark-2x.png[/img][/url]
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
 </ModMetaData>
