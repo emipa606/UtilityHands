@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fork hand -->
+  <ForkHand.label>Fork hand</ForkHand.label>
+  <!-- EN: using a fork instead of a hand -->
+  <ForkHand.description>using a fork instead of a hand</ForkHand.description>
+  <!-- EN: Fork hand -->
+  <ForkHand.comps.HediffComp_VerbGiver.tools.Fork_hand.label>Fork hand</ForkHand.comps.HediffComp_VerbGiver.tools.Fork_hand.label>
+  <!-- EN: a fork hand -->
+  <ForkHand.labelNoun>a fork hand</ForkHand.labelNoun>
+  <!-- EN: Knife hand -->
+  <KnifeHand.label>Knife hand</KnifeHand.label>
+  <!-- EN: using a knife instead of a hand -->
+  <KnifeHand.description>using a knife instead of a hand</KnifeHand.description>
+  <!-- EN: Knife hand -->
+  <KnifeHand.comps.HediffComp_VerbGiver.tools.Knife_hand.label>Knife hand</KnifeHand.comps.HediffComp_VerbGiver.tools.Knife_hand.label>
+  <!-- EN: a knife hand -->
+  <KnifeHand.labelNoun>a knife hand</KnifeHand.labelNoun>
+  <!-- EN: Scissor hand -->
+  <ScissorHand.label>Scissor hand</ScissorHand.label>
+  <!-- EN: using a scissor instead of a hand -->
+  <ScissorHand.description>using a scissor instead of a hand</ScissorHand.description>
+  <!-- EN: Scissor hand -->
+  <ScissorHand.comps.HediffComp_VerbGiver.tools.Scissor_hand.label>Scissor hand</ScissorHand.comps.HediffComp_VerbGiver.tools.Scissor_hand.label>
+  <!-- EN: a scissor hand -->
+  <ScissorHand.labelNoun>a scissor hand</ScissorHand.labelNoun>
+  <!-- EN: Spoon hand -->
+  <SpoonHand.label>Spoon hand</SpoonHand.label>
+  <!-- EN: using a spoon instead of a hand -->
+  <SpoonHand.description>using a spoon instead of a hand</SpoonHand.description>
+  <!-- EN: spoon hand -->
+  <SpoonHand.comps.HediffComp_VerbGiver.tools.spoon_hand.label>spoon hand</SpoonHand.comps.HediffComp_VerbGiver.tools.spoon_hand.label>
+  <!-- EN: a spoon hand -->
+  <SpoonHand.labelNoun>a spoon hand</SpoonHand.labelNoun>
+</LanguageData>

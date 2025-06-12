@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fork hand -->
+  <ForkHand.label>fork hand</ForkHand.label>
+  <!-- EN: It makes it easier to fork someone. -->
+  <ForkHand.description>It makes it easier to fork someone.</ForkHand.description>
+  <!-- EN: knife hand -->
+  <KnifeHand.label>knife hand</KnifeHand.label>
+  <!-- EN: You could feel like a wolverine! -->
+  <KnifeHand.description>You could feel like a wolverine!</KnifeHand.description>
+  <!-- EN: scissor hand -->
+  <ScissorHand.label>scissor hand</ScissorHand.label>
+  <!-- EN: Try it on some ice-scuptures. -->
+  <ScissorHand.description>Try it on some ice-scuptures.</ScissorHand.description>
+  <!-- EN: spoon hand -->
+  <SpoonHand.label>spoon hand</SpoonHand.label>
+  <!-- EN: Why would you want to be a spoon-handed freak? -->
+  <SpoonHand.description>Why would you want to be a spoon-handed freak?</SpoonHand.description>
+</LanguageData>

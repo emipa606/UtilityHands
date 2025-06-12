@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Craft fork hand -->
+  <CreateForkHand.label>Craft fork hand</CreateForkHand.label>
+  <!-- EN: Crafts a fork hand from metal. -->
+  <CreateForkHand.description>Crafts a fork hand from metal.</CreateForkHand.description>
+  <!-- EN: Crafting prosthesis. -->
+  <CreateForkHand.jobString>Crafting prosthesis.</CreateForkHand.jobString>
+  <!-- EN: Craft knife hand -->
+  <CreateKnifeHand.label>Craft knife hand</CreateKnifeHand.label>
+  <!-- EN: Crafts a knife hand from metal. -->
+  <CreateKnifeHand.description>Crafts a knife hand from metal.</CreateKnifeHand.description>
+  <!-- EN: Crafting prosthesis. -->
+  <CreateKnifeHand.jobString>Crafting prosthesis.</CreateKnifeHand.jobString>
+  <!-- EN: Craft scissor hand -->
+  <CreateScissorHand.label>Craft scissor hand</CreateScissorHand.label>
+  <!-- EN: Tailors a scissor hand from metal. -->
+  <CreateScissorHand.description>Tailors a scissor hand from metal.</CreateScissorHand.description>
+  <!-- EN: Crafting prosthesis. -->
+  <CreateScissorHand.jobString>Crafting prosthesis.</CreateScissorHand.jobString>
+  <!-- EN: Craft spoon hand -->
+  <CreateSpoonHand.label>Craft spoon hand</CreateSpoonHand.label>
+  <!-- EN: Crafts a spoon hand from metal. -->
+  <CreateSpoonHand.description>Crafts a spoon hand from metal.</CreateSpoonHand.description>
+  <!-- EN: Crafting prosthesis. -->
+  <CreateSpoonHand.jobString>Crafting prosthesis.</CreateSpoonHand.jobString>
+</LanguageData>
